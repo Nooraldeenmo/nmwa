@@ -2,7 +2,7 @@
   "Gold": {
     "update_code": "0",
     "reminder_time": "3",
-    "update_version": "v11.30",
+    "update_version": "v35",
     "com.nmwhatsapp": "https://www.nmwhats.app/2019/07/nmwhatsapp-ar.html",
     "com.WhatsApp2Plus": "https://www.nmwhats.app/2019/07/nmwhatsapp-ar.html",
     "com.WhatsApp3Plus": "https://www.nmwhats.app/2019/07/nmwhatsapp-ar.html",
