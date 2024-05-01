@@ -8,7 +8,7 @@
     "com.ob3whatsapp": "https://updateomar.app/obwh",
     "com.ob4whatsapp": "https://updateomar.app/obwh",
     "com.ob5whatsapp": "https://updateomar.app/obwh",
-	"com.ob6whatsapp": "https://updateomar.app/obwh",
+    "com.ob6whatsapp": "https://updateomar.app/obwh",
     "update_message": "
 <p>Update Vتحديث 60</p>
 <li>إضافة خيار لإخفاء اشعار الحالات المحذوفة</li>
