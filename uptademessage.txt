@@ -1,15 +1,13 @@
 {
   "Gold": {
-    "update_code": "1",
+    "update_code": "8",
     "reminder_time": "3",
-    "update_version": "v35",
+    "update_version": "v34.10",
     "com.nmwhatsapp": "https://www.nmwhats.app/2019/07/nmwhatsapp-ar.html",
-    "com.WhatsApp2Plus": "https://www.nmwhats.app/2019/07/nmwhatsapp-ar.html",
-    "com.WhatsApp3Plus": "https://www.nmwhats.app/2019/07/nmwhatsapp-ar.html",
-    "com.WhatsApp4Plus": "https://www.nmwhats.app/2019/07/nmwhatsapp-ar.html",
-    "com.WhatsApp5Plus": "https://www.nmwhats.app/2019/07/nmwhatsapp-ar.html",
+    "com.nm2whatsapp": "https://www.nmwhats.app/2019/07/nmwhatsapp-ar.html",
+    "com.nm3whatsapp": "https://www.nmwhats.app/2019/07/nmwhatsapp-ar.html",
     "update_message": "
-<p>Update Vتحديث 58</p>
+<p>Update Vتحديث 34.10</p>
 <li>إضافة خيار لإخفاء اشعار الحالات المحذوفة</li>
 <li>تحسين زر حفظ الحالات</li>
 <li>تحسين ظهور زر الترجمة في المحادثة</li>
