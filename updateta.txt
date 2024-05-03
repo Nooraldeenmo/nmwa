@@ -3,9 +3,9 @@
     "update_code": "8",
     "reminder_time": "3",
     "update_version": "v34.10",
-    "com.nmwhatsapp": "https://www.nmwhats.app/2019/07/taizapp-ar.html",
-    "com.nm2whatsapp": "https://www.nmwhats.app/2019/07/taizapp-ar.html",
-    "com.nm3whatsapp": "https://www.nmwhats.app/2019/07/taizapp-ar.html",
+    "com.tawhatsapp": "https://www.nmwhats.app/2019/07/taizapp-ar.html",
+    "com.ta2whatsapp": "https://www.nmwhats.app/2019/07/taizapp-ar.html",
+    "com.ta3whatsapp": "https://www.nmwhats.app/2019/07/taizapp-ar.html",
     "update_message": "
 <p>Update Vتحديث 34.10</p>
 <li>إضافة خيار لإخفاء اشعار الحالات المحذوفة</li>
