@@ -1,6 +1,6 @@
 {
   "Gold": {
-    "update_code": "8",
+    "update_code": "7",
     "reminder_time": "3",
     "update_version": "v34.10",
     "com.nmwhatsapp": "https://www.nmwhats.app/2019/07/nmwhatsapp-ar.html",
