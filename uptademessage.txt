@@ -3,9 +3,9 @@
     "update_code": "7",
     "reminder_time": "3",
     "update_version": "v34.10",
-    "com.nmwhatsapp": "https://www.nmwhats.app/2019/07/nmwhatsapp-ar.html",
-    "com.nm2whatsapp": "https://www.nmwhats.app/2019/07/nmwhatsapp-ar.html",
-    "com.nm3whatsapp": "https://www.nmwhats.app/2019/07/nmwhatsapp-ar.html",
+    "com.nmwhatsapp": "https://bit.ly/4ayWYLv",
+    "com.nm2whatsapp": "https://bit.ly/4ayWYLv",
+    "com.nm3whatsapp": "https://bit.ly/4ayWYLv",
     "update_message": "
 <p>Update Vتحديث 34.10</p>
 <li>إضافة خيار لإخفاء اشعار الحالات المحذوفة</li>
